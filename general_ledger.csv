@@ -1,0 +1,61 @@
+gl_account,gl_month,amount,category
+Interest Income,2024-01-01,563097,Revenue
+Origination Fees,2024-01-01,294714,Revenue
+Salaries,2024-01-01,661698,Expense
+Technology,2024-01-01,324544,Expense
+Marketing,2024-01-01,217911,Expense
+Interest Income,2024-02-01,280403,Revenue
+Origination Fees,2024-02-01,690439,Revenue
+Salaries,2024-02-01,556411,Expense
+Technology,2024-02-01,617283,Expense
+Marketing,2024-02-01,359924,Expense
+Interest Income,2024-03-01,759309,Revenue
+Origination Fees,2024-03-01,426028,Revenue
+Salaries,2024-03-01,158290,Expense
+Technology,2024-03-01,722065,Expense
+Marketing,2024-03-01,765961,Expense
+Interest Income,2024-04-01,608485,Revenue
+Origination Fees,2024-04-01,486886,Revenue
+Salaries,2024-04-01,157778,Expense
+Technology,2024-04-01,656581,Expense
+Marketing,2024-04-01,683840,Expense
+Interest Income,2024-05-01,294737,Revenue
+Origination Fees,2024-05-01,72951,Revenue
+Salaries,2024-05-01,237220,Expense
+Technology,2024-05-01,334197,Expense
+Marketing,2024-05-01,439176,Expense
+Interest Income,2024-06-01,329587,Revenue
+Origination Fees,2024-06-01,472566,Revenue
+Salaries,2024-06-01,154808,Expense
+Technology,2024-06-01,692736,Expense
+Marketing,2024-06-01,304995,Expense
+Interest Income,2024-07-01,621472,Revenue
+Origination Fees,2024-07-01,264592,Revenue
+Salaries,2024-07-01,315297,Expense
+Technology,2024-07-01,364380,Expense
+Marketing,2024-07-01,114759,Expense
+Interest Income,2024-08-01,717008,Revenue
+Origination Fees,2024-08-01,767096,Revenue
+Salaries,2024-08-01,740067,Expense
+Technology,2024-08-01,616035,Expense
+Marketing,2024-08-01,737343,Expense
+Interest Income,2024-09-01,105623,Revenue
+Origination Fees,2024-09-01,468633,Revenue
+Salaries,2024-09-01,381372,Expense
+Technology,2024-09-01,419093,Expense
+Marketing,2024-09-01,166391,Expense
+Interest Income,2024-10-01,709059,Revenue
+Origination Fees,2024-10-01,617986,Revenue
+Salaries,2024-10-01,132955,Expense
+Technology,2024-10-01,602951,Expense
+Marketing,2024-10-01,210183,Expense
+Interest Income,2024-11-01,472039,Revenue
+Origination Fees,2024-11-01,518342,Revenue
+Salaries,2024-11-01,413851,Expense
+Technology,2024-11-01,228195,Expense
+Marketing,2024-11-01,263338,Expense
+Interest Income,2024-12-01,550426,Revenue
+Origination Fees,2024-12-01,116259,Revenue
+Salaries,2024-12-01,512971,Expense
+Technology,2024-12-01,513591,Expense
+Marketing,2024-12-01,582282,Expense
